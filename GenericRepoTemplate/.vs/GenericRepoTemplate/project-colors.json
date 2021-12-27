@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b281cee-c378-47fd-b4b1-42ed5537317a": {
+      "ProjectGuid": "1b281cee-c378-47fd-b4b1-42ed5537317a",
+      "DisplayName": "GenericRepoTemplate.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
