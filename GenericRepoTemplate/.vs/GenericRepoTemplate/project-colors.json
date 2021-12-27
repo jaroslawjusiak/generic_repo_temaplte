@@ -5,7 +5,22 @@
       "ProjectGuid": "1b281cee-c378-47fd-b4b1-42ed5537317a",
       "DisplayName": "GenericRepoTemplate.API",
       "ColorIndex": 0
+    },
+    "dc634103-26a2-4f52-b20e-cef01897ec38": {
+      "ProjectGuid": "dc634103-26a2-4f52-b20e-cef01897ec38",
+      "DisplayName": "GenericRepoTemplate.Domain",
+      "ColorIndex": 1
+    },
+    "7d85035f-6154-42bc-bcba-bcb9c5b05abf": {
+      "ProjectGuid": "7d85035f-6154-42bc-bcba-bcb9c5b05abf",
+      "DisplayName": "GenericRepoTemplate.Infrastructure",
+      "ColorIndex": 2
+    },
+    "242e8265-2ee4-470f-9776-a4b4124e96ec": {
+      "ProjectGuid": "242e8265-2ee4-470f-9776-a4b4124e96ec",
+      "DisplayName": "GenericRepoTemplate.Application",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }
